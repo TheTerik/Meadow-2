@@ -32,3 +32,13 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Packages
+FreeNightSky*
+Grass And Flowers Pack 1*
+Realistic Terrain Collection*
+skyb1*
+Standard Assets*
+Toby Fredson*
+PostProcessing*
+
